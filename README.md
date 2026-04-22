@@ -4,7 +4,6 @@
 ![Docker](https://img.shields.io/badge/Docker-Ready-blue)
 ![MLOps](https://img.shields.io/badge/MLOps-Pipeline-green)
 ![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 📌 Overview
 This project implements a **production-style MLOps batch pipeline** for generating trading signals from financial time-series (OHLCV) data.
