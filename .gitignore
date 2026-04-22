@@ -1,0 +1,36 @@
+# Virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and outputs
+run.log
+*.log
+metrics.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Build / packaging
+dist/
+build/
+*.egg-info/
+
+# Docker (optional but clean)
+*.tar
+
+# Environment variables
+.env
+
+#data
+data.csv

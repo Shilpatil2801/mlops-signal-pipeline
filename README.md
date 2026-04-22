@@ -75,6 +75,7 @@ docker run --rm mlops-task
 ```
 ---
 ## Example Output (metrics.json)
+```bash
 {
   "version": "v1",
   "rows_processed": 10000,
@@ -84,7 +85,7 @@ docker run --rm mlops-task
   "seed": 42,
   "status": "success"
 }
-
+```
 ---
 ## 🎯 Learning Outcomes
 - Applied MLOps principles to a real-world-style pipeline
