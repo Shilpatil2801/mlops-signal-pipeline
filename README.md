@@ -73,7 +73,6 @@ docker run --rm mlops-task
 └── run.log
 
 ---
----
 ## Example Output (metrics.json)
 {
   "version": "v1",
@@ -86,14 +85,12 @@ docker run --rm mlops-task
 }
 
 ---
----
 ## 🎯 Learning Outcomes
 -Applied MLOps principles to a real-world-style pipeline
 -Built a reproducible and observable system
 -Practiced Docker-based deployment
 -Implemented robust validation and error handling
 
----
 
 ---
 ## 📌 Domain
@@ -104,7 +101,6 @@ This project lies at the intersection of:
 
 ---
 
----
 ## 🤝 Contribution
 Feel free to fork, improve, and extend the pipeline with advanced indicators or ML models
 
