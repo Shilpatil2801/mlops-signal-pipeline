@@ -63,6 +63,7 @@ docker run --rm mlops-task
 ```
 ---
 ## 📁 Project Structure
+```bash
 ├──  run.py
 ├──  config.yaml
 ├──  data.csv
@@ -71,7 +72,7 @@ docker run --rm mlops-task
 ├──  README.md
 ├──  metrics.json
 └──  run.log
-
+```
 ---
 ## Example Output (metrics.json)
 {
